@@ -1,0 +1,16 @@
+{
+  "run_date": "2026-08-13",
+  "lane": "Refresh / Content Opportunity Scoring",
+  "month_analyzed": "2026-03",
+  "total_pages_loaded": 319758,
+  "valid_pages_scored": 150674,
+  "pages_flagged_for_review": 59761,
+  "signal_1_verdict": "CONFIRMED",
+  "signal_2_verdict": "OPPOSITE",
+  "top_score": 463.4929688215155,
+  "reason_codes_used": [
+    "position_ctr_gap"
+  ]
+}
+
+Add baseline metrics JSON
